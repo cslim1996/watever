@@ -42,6 +42,7 @@ Partial Class Form1
         Me.BindingNavigatorSeparator2 = New System.Windows.Forms.ToolStripSeparator()
         Me.DirectorySearcher2 = New System.DirectoryServices.DirectorySearcher()
         Me.Kimmy = New System.Windows.Forms.Button()
+        Me.FontDialog1 = New System.Windows.Forms.FontDialog()
         CType(Me.FileSystemWatcher1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.BindingNavigator1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.BindingNavigator1.SuspendLayout()
@@ -232,4 +233,5 @@ Partial Class Form1
     Friend WithEvents BindingNavigatorSeparator2 As ToolStripSeparator
     Friend WithEvents DirectorySearcher2 As DirectoryServices.DirectorySearcher
     Friend WithEvents Kimmy As Button
+    Friend WithEvents FontDialog1 As FontDialog
 End Class
