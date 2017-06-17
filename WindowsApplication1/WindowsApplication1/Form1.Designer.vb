@@ -191,7 +191,7 @@ Partial Class Form1
         Me.Kimmy.Name = "Kimmy"
         Me.Kimmy.Size = New System.Drawing.Size(249, 23)
         Me.Kimmy.TabIndex = 3
-        Me.Kimmy.Text = "Kimmy here i come"
+        Me.Kimmy.Text = "kc"
         Me.Kimmy.UseVisualStyleBackColor = True
         '
         'Form1
